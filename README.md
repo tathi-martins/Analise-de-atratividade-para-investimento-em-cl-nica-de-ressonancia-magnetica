@@ -31,8 +31,10 @@ Percentual de pessoas com plano de saúde por capital e ano, com intervalos de c
 ![Cobertura por Capital e Ano](grafico1.png)  
 
 ### 2.2 Evolução Temporal por Capital
+![Cobertura por Capital e Ano](grafico2.png)
 
 ### 2.3 Variação 2019 vs 2013
+![Cobertura por Capital e Ano](grafico3.png)
 ---
 
 ## 3) Insights Exploratórios  
