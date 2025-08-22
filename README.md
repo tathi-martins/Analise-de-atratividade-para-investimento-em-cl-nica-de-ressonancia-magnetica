@@ -28,7 +28,7 @@ Percentual de pessoas com plano de saúde por capital e ano, com intervalos de c
 ## 2) Gráficos  
 
 ### 2.1 Cobertura por Capital e Ano (com IC)  
-![Cobertura por Capital e Ano](graficos/cobertura_capitais.png)  
+![Cobertura por Capital e Ano](grafico1.png)  
 
 ### 2.2 Evolução Temporal por Capital
 
